@@ -1,0 +1,4 @@
+1	sena   cag	111
+1	ff   kk	88
+2	ooo   kkk	999
+15	bbb   hhh	555
